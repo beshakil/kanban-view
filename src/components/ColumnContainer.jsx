@@ -1,7 +1,6 @@
 import { SortableContext, useSortable } from "@dnd-kit/sortable";
 import { FaTrashAlt } from "react-icons/fa";
 import { BsFillPlusCircleFill } from "react-icons/bs";
-// import { Column, Id, Task } from "../types";
 import { CSS } from "@dnd-kit/utilities";
 import { useMemo, useState } from "react";
 import TaskCard from "./TaskCard";
